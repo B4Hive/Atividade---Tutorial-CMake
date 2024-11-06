@@ -1,0 +1,3 @@
+/home/b4hive/Atividade-Tutorial-CMake/build/CMakeFiles/hello.dir
+/home/b4hive/Atividade-Tutorial-CMake/build/CMakeFiles/edit_cache.dir
+/home/b4hive/Atividade-Tutorial-CMake/build/CMakeFiles/rebuild_cache.dir
